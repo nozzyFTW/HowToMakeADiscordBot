@@ -100,4 +100,4 @@ Now that you have programmed a basic bot with no functionality as of yet, you ca
 npm run dev
 ```
 
-Now that you have completed this part, you can continue onto [Part 2 - Commands](Part%202%20-%20Commands), or you can return to the [Contents Page](Contents).
+Now that you have completed this part, you can continue onto [Part 2 - Commands](Part%202%20-%20Commands), or you can return to the [Contents Page](https://github.com/nozzyFTW/HowToMakeADiscordBot/blob/main/README.md).
